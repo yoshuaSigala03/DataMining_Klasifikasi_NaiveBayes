@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity(%),Wind(Knots),Outside Activity
+Rainy,Hot,65,15,0
+Rainy,Hot,66,26,0
+Overcast,Hot,62,17,1
+Sunny,Mild,57,13,1
+Sunny,Cool,51,27,0
+Sunny,Cool,55,25,1
+Overcast,Cool,53,11,1
+Rainy,Mild,53,15,1
+Rainy,Mild,50,33,0
+Sunny,Cool,55,24,1
+Rainy,Cool,63,29,0
+Overcast,Mild,49,10,1
+Overcasty,Hot,65,13,1
+Sunny,Hot,53,28,0
